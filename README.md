@@ -5,4 +5,4 @@ In this project, I built a model using PySpark and Python. Building these models
 
 This is an educational example. The dataset has been anonymized. It shows information on 7,043 clients from a communication company.
 
-Go to this link for an explicative [slides presentation](https://docs.google.com/presentation/d/1RWxm0NhXG7zA7D6eWS9F8gPYcJg3GLEi3Fzz6YXcaio/edit?usp=sharing) of the main findings.
+Go to this link for an explicative [presentation slides](https://docs.google.com/presentation/d/1RWxm0NhXG7zA7D6eWS9F8gPYcJg3GLEi3Fzz6YXcaio/edit?usp=sharing) of the main findings.
